@@ -131,6 +131,7 @@ We don't care how good your resume is.
 - 📨 **Email for support:** sect.club@sandipuniversity.edu.in
 - 🛠️ **Program updates** posted regularly on our official channels
 
+- **You can join the SECT Community Whatsapp Group:** https://chat.whatsapp.com/BVpXhOyBeeB5LFmPX0ONF6
 ---
 
 ## 🤝 Contributing
