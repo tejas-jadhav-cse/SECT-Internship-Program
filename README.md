@@ -67,11 +67,11 @@ These partners bring real work and we bring the talent and training.
 | Phase | Dates | Description |
 |-------|-------|-------------|
 | 📢 **Launch & Registration** | June 10 | Applications Open |
-| 🧠 **Selections & WhatsApp Onboarding** | June 24–26 | Final list released |
-| 🎓 **Orientation + Team Allocation** | June 27 | Onboarding call & project kickoff |
-| 🛠️ **Internship Work Period** | June 28 – July 24 | Real work, mentorship, and weekly reviews |
-| 🚀 **Final Showcase & Wrap-up** | July 25 – 27 | Submit progress, demos, or learning outcomes |
-| 🎖️ **Certificate Distribution** | July 30 | Completion certificates for qualifying students |
+| 🧠 **Selections** | June 25–30 | Shortlisting, Final list released |
+| 🎓 **Orientation + Team Allocation** | July 01 | Onboarding call & project kickoff |
+| 🛠️ **Internship Work Period** | June 01 – July 31 | Real work, mentorship, and weekly reviews |
+| 🚀 **Final Showcase & Wrap-up** | August 01 – 05 | Submit progress, demos, or learning outcomes |
+| 🎖️ **Certificate Distribution** | August 10 | Completion certificates for qualifying students |
 
 ---
 
@@ -90,7 +90,7 @@ These partners bring real work and we bring the talent and training.
 ## ✅ Why It's Not Like Other Internships
 
 ### ❌ What We Don't Do:
-- No fees
+- No fees (₹0/- Hidden Cost)
 - No fake work
 - No "just watch tutorials and submit a task"
 
@@ -128,7 +128,7 @@ We don't care how good your resume is.
 ## 🌐 Stay Connected
 
 - ✅ **Join the WhatsApp group** (only selected candidates)
-- 📨 **Email for support:** sectopensourceclub@gmail.com
+- 📨 **Email for support:** sect.club@sandipuniversity.edu.in
 - 🛠️ **Program updates** posted regularly on our official channels
 
 ---
